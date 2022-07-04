@@ -499,7 +499,7 @@ body {
         background: black;
         width: 110px;
         position: absolute;
-        bottom: 3px;
+        bottom: 2px;
         left: 60%;
         display: flex;
         justify-content: space-between;
@@ -699,7 +699,7 @@ body {
         justify-content: space-between;
         align-items: center;
         float: right;
-        transform: translateY(-57.5px);
+        transform: translateY(-58px);
         cursor: pointer;
     }
     .div20 {
